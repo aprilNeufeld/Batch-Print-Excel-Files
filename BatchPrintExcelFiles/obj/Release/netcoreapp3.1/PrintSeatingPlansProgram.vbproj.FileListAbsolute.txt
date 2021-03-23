@@ -1,0 +1,45 @@
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\PrintSeatingPlansProgram.exe
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\PrintSeatingPlansProgram.deps.json
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\PrintSeatingPlansProgram.runtimeconfig.json
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\PrintSeatingPlansProgram.runtimeconfig.dev.json
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\PrintSeatingPlansProgram.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\PrintSeatingPlansProgram.pdb
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\Interop.MSForms.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\Interop.MSForms.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.vbproj.ResolveComReference.cache
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.AssemblyInfoInputs.cache
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.AssemblyInfo.vb
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.vbproj.CoreCompileInputs.cache
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.pdb
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.genruntimeconfig.cache
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.vbprojAssemblyReference.cache
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\PrintSeatingPlansProgram.exe
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\PrintSeatingPlansProgram.deps.json
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\PrintSeatingPlansProgram.runtimeconfig.json
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\PrintSeatingPlansProgram.runtimeconfig.dev.json
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\PrintSeatingPlansProgram.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\PrintSeatingPlansProgram.pdb
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\bin\Release\netcoreapp3.1\Interop.MSForms.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.vbprojAssemblyReference.cache
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\Interop.MSForms.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.vbproj.ResolveComReference.cache
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.AssemblyInfoInputs.cache
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.AssemblyInfo.vb
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.vbproj.CoreCompileInputs.cache
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.dll
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.pdb
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.genruntimeconfig.cache
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.UserOptionsForm.resources
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans - Public\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.vbproj.GenerateResource.cache
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.CustomMessageBox.resources
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.UserOptionsForm.resources
+C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\obj\Release\netcoreapp3.1\PrintSeatingPlansProgram.vbproj.GenerateResource.cache

@@ -1,0 +1,8 @@
+C:\Users\ANeufeld\Documents\Scripts\PrintSeatingPlans\PrintSeatingPlansProgram.exe
+C:\Users\ANeufeld\Documents\Scripts\PrintSeatingPlans\PrintSeatingPlansProgram.dll
+C:\Users\ANeufeld\Documents\Scripts\PrintSeatingPlans\PrintSeatingPlansProgram.deps.json
+C:\Users\ANeufeld\Documents\Scripts\PrintSeatingPlans\PrintSeatingPlansProgram.runtimeconfig.json
+C:\Users\ANeufeld\Documents\Scripts\PrintSeatingPlans\PrintSeatingPlansProgram.pdb
+C:\Users\ANeufeld\Documents\Scripts\PrintSeatingPlans\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ANeufeld\Documents\Scripts\PrintSeatingPlans\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\ANeufeld\Documents\Scripts\PrintSeatingPlans\Interop.MSForms.dll

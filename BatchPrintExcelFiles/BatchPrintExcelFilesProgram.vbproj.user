@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+    <_LastSelectedProfileId>C:\Users\ANeufeld\source\repos\PrintSeatingPlans\PrintSeatingPlansProgram\My Project\PublishProfiles\Personal Folder.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="CellEditor.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomMessageBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserOptionsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
