@@ -11,7 +11,7 @@ Walks the user through the steps of closing any open Excel files, selecting a di
 
 ## Authors
 
-* **April Neufeld** - *Initial work* - [TricksterCodess](https://github.com/tricksterCodess)
+* **April Neufeld** 
 
 ## License
 
